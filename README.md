@@ -1,2 +1,2 @@
 # CS302_OS
-os labs and assignments
+🌟Labs and assignments of SUSTech CS302 Operating System
