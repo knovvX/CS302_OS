@@ -1,2 +1,4 @@
 # CS302_OS
-os labs and assignments
+OS labs and assignments of SUSTech
+
+Corrections of assignments are attached
